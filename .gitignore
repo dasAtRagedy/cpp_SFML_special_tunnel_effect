@@ -9,3 +9,7 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+.idea/
+cmake-build-debug/
+# CMake file is for linking the external libraries, I am not sure if it should be left out or not.
+# CMakeLists.txt
